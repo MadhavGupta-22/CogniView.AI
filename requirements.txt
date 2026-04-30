@@ -1,0 +1,26 @@
+fastapi>=0.110.0
+uvicorn>=0.27.0
+httpx>=0.27.0
+aiohttp>=3.10.0
+aiofiles>=24.1.0
+PyMuPDF>=1.24.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+arxiv>=2.1.0
+google-generativeai>=0.8.0
+tenacity>=9.0.0
+beautifulsoup4
+lxml
+requests>=2.31.0
+
+# Hybrid keyword extraction (KeyBERT + spaCy + SentenceTransformer)
+spacy>=3.7.0
+keybert>=0.8.0
+sentence-transformers>=2.2.0
+
+# SPECTER 2.0 semantic ranking
+adapters>=1.0.0
+transformers>=4.38.0
+torch>=2.1.0
+numpy>=1.24.0
+scipy>=1.11.0
